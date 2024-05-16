@@ -14,15 +14,16 @@ list-style:none;
 
 .logo{
     font-weight: 700;
-    font-size: 18px;
-    line-height: 1.17;
-    letter-spacing: 0.03em;
-    text-transform: uppercase;
-    color: #2e2f42;
+        font-size: 18px;
+        line-height: 1.17;
+        letter-spacing: 0.03em;
+        text-transform: uppercase;
+        color: #4d5ae5;
+    font-family: "Raleway", sans-serif;
 }
 
 .header-logo {
-color: #4d5ae5;
+color: #2e2f42;
 }
 
 .nav-link{
@@ -71,8 +72,12 @@ font-weight: 500;
     line-height: 1.5;
     letter-spacing: 0.04em;
     color: #fff;
+    background-color: #4D5AE5
 }
-
+.hero-button:hover,
+.hero-button:focus{
+    background-color: #404BBF
+}
 .features-list {}
 
 .features-item {}
@@ -178,16 +183,20 @@ font-weight: 500;
         color: #434455;
 }
 
-.Our-Portfolio {
+.our-portfolio {
 font-weight: 700;
     font-size: 36px;
-    line-height: 1.11111;
+    line-height: 1.11;
     letter-spacing: 0.02em;
     text-align: center;
     color: #2e2f42;
+    background-color: #F4F4FD
+    
+   
 }
 
 .portfolio-list {
+    background-color: #FFFFFF
 }
 
 .portfolio-item {}
@@ -220,21 +229,21 @@ width: 360px;
 }
 
 .footer-logo {
-    font-weight: 700;
-        font-size: 18px;
-        line-height: 1.17;
-        letter-spacing: 0.03em;
-        text-transform: uppercase;
-        color: #f4f4fd;
-}
-
-.footer-logo-web {
-    font-weight: 700;
+font-weight: 700;
     font-size: 18px;
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4d5ae5;
+    font-family: "Raleway", sans-serif;
+
+.footer-logo-web {
+font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #f4f4fd;
 }
 
 .footer-text {
