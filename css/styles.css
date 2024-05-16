@@ -167,7 +167,7 @@ font-weight: 500;
 .portfolio-subtitle {
     font-weight: 500;
         font-size: 20px;
-        line-height: 1.2;
+        line-height: 1.11;
         letter-spacing: 0.02em;
         color: #2e2f42;
 }
@@ -193,14 +193,10 @@ font-weight: 700;
     text-transform: uppercase;
     color: #4d5ae5;
     font-family: "Raleway", sans-serif;
+}
 
 .footer-logo-web {
-font-weight: 700;
-    font-size: 18px;
-    line-height: 1.17;
-    letter-spacing: 0.03em;
-    text-transform: uppercase;
-    color: #f4f4fd;
+    color: #F4F4FD;
 }
 
 .footer-text {
